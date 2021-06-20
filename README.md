@@ -1,7 +1,3 @@
-* GSSoC participants, beginner friendly issues have been released. Please be watchful of the repository link. We will use the below repository for GSSoC'21.
-* https://github.com/CrewMates-Open-Source/EduHelp.git
-* We have submitted a request to the organising team for updating this link in GSSoC website .
-
 # T40-Crewmates
 
 Official Repository for DotSlash 4.0 Submission of Team 40: Crewmates.
