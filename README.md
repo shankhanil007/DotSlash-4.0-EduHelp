@@ -20,7 +20,7 @@ We faced difficulty ourselves during the online semester and were able to think 
 
 ## What it does
 
-It captures audio and screenshots during any online class or conference etc. The screenshots of different slides are captures to avoid an excess of the same one accumulating. The audio is converted to text and a file containing its summary in .txt file as well as braille scripted file is saved. The braille file can be given as an input to refreshable braille display (rbd) machines. The audio files can also be used by a blind person for taking note of what happened during class. The screenshots are stored in a .docx file and can be used by a deaf person or even another person for revisiting concepts they might miss during classes. We also made a TicTacToe game that can be played with slight eye movements. 
+It captures the audio and screenshots during an online class or conference. The screenshots of different slides are captured to avoid an excess of the same one accumulating. The audio is converted to text and a file containing its summary in a .txt format as well as a braille scripted file is saved. The braille file can be given as an input to refreshable braille display (RBD) machines. The audio files can be used by a blind person for taking note of what happened during the class. The screenshots are stored in a .docx file and can be used by a deaf or any other person for revisiting concepts they missed during the class. We also made a TicTacToe game that can be played with slight eye movements. 
 
 ## How we built it
 
