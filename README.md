@@ -62,4 +62,4 @@ It captures the audio and screenshots during an online class or conference. The 
 - The Gesture control needs to be more calibrated and we wish to integrate it to provide more use case to people with amputation.
 
 ## License
-Please be careful of copyright infringements while using our codebase. See LICENSE for more information. 
+See LICENSE for more information. 
